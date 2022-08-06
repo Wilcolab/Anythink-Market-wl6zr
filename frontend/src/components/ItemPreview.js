@@ -36,7 +36,7 @@ const ItemPreview = (props) => {
     >
       <img
         alt="item"
-        src={item.image}
+        src="https://raw.githubusercontent.com/ObelusFamily/Anythink-Market-wl6zr/main/frontend/public/placeholder.png"
         className="card-img-top item-img"
         style={{ borderRadius: "20px" }}
       />
